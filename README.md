@@ -40,5 +40,5 @@ Each notebook includes:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/deep-learning-practicals.git
+   git clone https://github.com/nkale882/Deep_Learning_Practicals.git
    cd deep-learning-practicals
